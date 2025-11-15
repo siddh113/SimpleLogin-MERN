@@ -1,3 +1,4 @@
+```mermaid
 graph LR
     subgraph Inputs
         A([A])
